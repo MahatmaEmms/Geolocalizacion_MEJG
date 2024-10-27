@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geolocalizacion_MEJG", "Geolocalizacion_MEJG\Geolocalizacion_MEJG.csproj", "{20C2D86C-8222-4F2C-AE18-49B90103820A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20C2D86C-8222-4F2C-AE18-49B90103820A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20C2D86C-8222-4F2C-AE18-49B90103820A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20C2D86C-8222-4F2C-AE18-49B90103820A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20C2D86C-8222-4F2C-AE18-49B90103820A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63871F80-8942-48E4-9610-3F1E247CF3DC}
+	EndGlobalSection
+EndGlobal
